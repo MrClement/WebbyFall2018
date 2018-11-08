@@ -5,4 +5,32 @@ body {
     font-family: Helvetica, Arial, sans-serif;
     line-height: 1.5;
     padding: 4em 1em;
+    background-color: #eee;
+    color: #222;
+}
+
+h2 {
+    color: #553355;
+}
+
+p {
+    background-color: #ffffff;
+    padding: 1em;
+}
+
+img {
+    width: 50%;
+    margin-left: 25%; 
+    box-shadow: 5px 5px 3px 0px #000000;
+}
+ img:hover {
+    box-shadow: 7px 7px 3px 2px #000000;
+ }
+
+a {
+    color: #1aff1a;
+}
+
+a:visited {
+    color: #ff33ff;
 }
